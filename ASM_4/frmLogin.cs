@@ -39,6 +39,10 @@ namespace ASM_4
                 booksForm.Show();
                 booksForm.FormClosed += Main_Closed;
             }
+            else if (dto == null)
+            {
+                MessageBox.Show("Invalid username or password!!!");
+            }
         }
 
         private void Main_Closed(object sender, FormClosedEventArgs e)
