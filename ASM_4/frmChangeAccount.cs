@@ -31,20 +31,20 @@ namespace ASM_4
         private void InitData()
         {
             txtUsername.Text = Employee.EmpID;
-            txtPassword.Text = Employee.EmpPassword;
             txtRole.Text = Employee.EmpRole.ToString();
         }
 
         private void btnSaveChange_Click(object sender, EventArgs e)
         {
             EmployeeDAO dao = new EmployeeDAO();
+            CheckMD5 md5 = new CheckMD5();
             if (txtPassword.Text.Length < 2 || txtPassword.Text.Length > 15)
             {
                 MessageBox.Show("Password require 2 - 15 characters.");
             }
             else
             {
-                bool r = dao.ChagePassword(Employee.EmpID, txtPassword.Text);
+                bool r = dao.ChagePassword(Employee.EmpID, md5.CreateMD5(txtPassword.Text));
                 if (r == true)
                 {
                     MessageBox.Show("Save successful.");

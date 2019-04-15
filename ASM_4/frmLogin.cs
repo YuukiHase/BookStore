@@ -22,9 +22,10 @@ namespace ASM_4
         {
             string userName = txtUsername.Text;
             string password = txtPassword.Text;
+            CheckMD5 md5 = new CheckMD5();
 
             EmployeeDAO dao = new EmployeeDAO();
-            EmployeeDTO dto = dao.CheckLogin(userName, password);
+            EmployeeDTO dto = dao.CheckLogin(userName, md5.CreateMD5(password));
             if (dto != null && dto.EmpRole == false)
             {
                 frmChangeAccount changeAccountForm = new frmChangeAccount(dto, this);
