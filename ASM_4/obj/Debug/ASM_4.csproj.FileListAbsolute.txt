@@ -1,0 +1,16 @@
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\bin\Debug\ASM_4.exe.config
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\bin\Debug\ASM_4.exe
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\bin\Debug\ASM_4.pdb
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\obj\Debug\ASM_4.csprojAssemblyReference.cache
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\obj\Debug\ASM_4.frmLogin.resources
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\obj\Debug\ASM_4.Properties.Resources.resources
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\obj\Debug\ASM_4.csproj.GenerateResource.cache
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\obj\Debug\ASM_4.csproj.CoreCompileInputs.cache
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\obj\Debug\ASM_4.exe
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\obj\Debug\ASM_4.pdb
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\obj\Debug\ASM_4.frmChangeAccount.resources
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\obj\Debug\ASM_4.frmMaintainBooks.resources
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\obj\Debug\ASM_4.frmBookReport.resources
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\bin\Debug\BookStore.dll
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\bin\Debug\BookStore.pdb
+E:\FPTU\Chuyen Nganh 5\PRN292\Assignment\ASM_4\ASM_4\obj\Debug\ASM_4.csproj.CopyComplete
